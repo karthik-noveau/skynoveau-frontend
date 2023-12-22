@@ -20,7 +20,7 @@ function Payments(props) {
                     address: "Razorpay Corporate office"
                 },
                 theme: {
-                    color: "rgb(0, 82, 0)"
+                    color: "#000000" 
                 }
             };
             var pay = new window.Razorpay(options);

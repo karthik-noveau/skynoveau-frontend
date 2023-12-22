@@ -1,3 +1,5 @@
+import sql from "../Assets/sql.png" 
+ 
  export const Intern_page_Data = [
     {
         id:1,
@@ -352,6 +354,30 @@
             },
             {
                 t1: "Figma prototype with the design"
+            },
+            {
+                t1: "hands On projects"
+            }
+        ],
+        price: 2000
+    },
+    {
+        id: 16,
+        C_title: " Learn SQL Quries",
+        image: sql,
+        C_des: "Enhance your Qurey implementation skills by learning SQL ",
+        topics: [
+            {
+                t1: "Basic Queries CREATE, DROP, MODIFY, ..."
+            },
+            {
+                t1: "SELECT, JOINS, WHERE, ALIAS, AS, INNER_JOIN, OUTER_JOIN, ..."
+            },
+            {
+                t1: "Combine two or more tables using JOIN Quries in advance level"
+            },
+            {
+                t1: "SQL quries implementation with scenorio based condition"
             },
             {
                 t1: "hands On projects"

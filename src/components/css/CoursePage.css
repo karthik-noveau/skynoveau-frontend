@@ -79,6 +79,7 @@ hr {
 .description_container {
     display: flex;
     width: 80%;
+    gap: 20px;
     justify-content: space-between;
 }
 
