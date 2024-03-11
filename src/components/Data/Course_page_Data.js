@@ -100,7 +100,7 @@ export const Course_page_Data = [
         t1: "How to deploy react js  projects in live server",
       },
     ],
-    price: 2000,
+    price: 3000,
   },
   {
     id: 5,
@@ -353,7 +353,7 @@ export const Course_page_Data = [
         t1: "CURD Applicaiton with MongoDB",
       },
     ],
-    price: 2000,
+    price: 5000,
   },
   {
     id: 16,

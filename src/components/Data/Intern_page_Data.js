@@ -95,7 +95,7 @@ import sql from "../Assets/sql.png"
                 t1: "How to deploy react js  projects in live server"
             }
         ],
-        price: 2000
+        price: 3000
     },
     {
         id:5,
@@ -335,7 +335,7 @@ import sql from "../Assets/sql.png"
                 t1: "CURD Applicaiton with MongoDB"
             }
         ],
-        price: 2000
+        price: 5000
     },
     {
         id: 15,
