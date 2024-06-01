@@ -13,7 +13,7 @@ function C_page_16() {
   const handleSubmit = () => {
     setCount((item) => !item);
   };
-let a = Course_page_Data
+  let a = Course_page_Data;
   return (
     <div>
       {count ? (
@@ -59,7 +59,7 @@ let a = Course_page_Data
                 <div className="pay_main_container">
                   <img src={payment} />
                   <p>Rs: ₹{Course_page_Data[14].price}/-</p>
-                  <a href="https://forms.gle/AVB8q9r5ZoV2uYf46" target="_blank">
+                  <a href="https://forms.gle/bSKfQ8mU7insdint9" target="_blank">
                     <button>Register here</button>
                   </a>
                   <button onClick={handleSubmit}>Click here to Payment</button>
